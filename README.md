@@ -1,4 +1,5 @@
-# 💫 About Me:
+# Hi there 👋
+## 💫 About Me:
 🔭 I’m currently working on JavaScript and ReactJS<br>🤝 I’m looking for help with Mobile Development<br>🌱 I’m currently learning React Native
 
 
