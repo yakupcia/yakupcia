@@ -1,6 +1,6 @@
 # Hi there 👋
 # 💫 About Me:
-🔭 I’m currently working on ReactJS and React Native<br>🤝 I’m looking for help with Mobile Development<br>🌱 I’m currently learning React Native<br>💬 Ask me about React Native
+🔭 I’m currently working on ReactJS and React Native<br>🌱 I’m currently learning React Native<br>💬 Ask me about Mobil Development
 
 
 ## 🌐 Socials:
